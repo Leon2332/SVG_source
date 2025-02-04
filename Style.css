@@ -1,41 +1,15 @@
 /* ============================
     TABLE OF CONTENTS
 
-	  1. TOOLTIPS
-	  2. MAP STYLES
+	1. MAP STYLES
+	2. 
 
 =============================== */
 
 
 
 /* ===================
-	1. TOOLTIPS
-===================== */
-
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-
-
-/* ===================
-	2. MAP STYLES
+	1. MAP STYLES
 ===================== */
 
 .map-regions {
