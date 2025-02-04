@@ -2,7 +2,7 @@
     TABLE OF CONTENTS
 
 	1. MAP STYLES
-	2. TEST STYLES
+	2. MAP INTERACTION
 
 =============================== */
 
@@ -24,5 +24,66 @@
 
 
 /* ===================
-	2. TEST STYLES
+	2. MAP INTERACTION
 ===================== */
+
+.region_text {
+	display: none;
+}
+
+
+:has(#region_1:hover) :is(#region_text_1) {
+	display: block;
+}
+
+:has(#region_2:hover) :is(#region_text_2) {
+	display: block;
+}
+
+:has(#region_3:hover) :is(#region_text_3) {
+	display: block;
+}
+
+:has(#region_4:hover) :is(#region_text_4) {
+	display: block;
+}
+
+:has(#region_5:hover) :is(#region_text_5) {
+	display: block;
+}
+
+:has(#region_6:hover) :is(#region_text_6) {
+	display: block;
+}
+
+:has(#region_7:hover) :is(#region_text_7) {
+	display: block;
+}
+
+:has(#region_8:hover) :is(#region_text_8) {
+	display: block;
+}
+
+:has(#region_9:hover) :is(#region_text_9) {
+	display: block;
+}
+
+:has(#region_10:hover) :is(#region_text_10) {
+	display: block;
+}
+
+:has(#region_11:hover) :is(#region_text_11) {
+	display: block;
+}
+
+:has(#region_12:hover) :is(#region_text_12) {
+	display: block;
+}
+
+:has(#region_13:hover) :is(#region_text_13) {
+	display: block;
+}
+
+:has(#region_14:hover) :is(#region_text_14) {
+	display: block;
+}
