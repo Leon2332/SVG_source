@@ -1,8 +1,8 @@
 /* ============================
     TABLE OF CONTENTS
 
-  1. TOOLTIPS
-  2. 
+	  1. TOOLTIPS
+	  2. MAP STYLES
 
 =============================== */
 
@@ -31,4 +31,19 @@
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+
+/* ===================
+	2. MAP STYLES
+===================== */
+
+.map-regions {
+	fill: #c4c4c4;
+	stroke: #000000;
+	stroke-width: 2px;
+}
+
+.map-regions:hover {
+	fill: #2b2b2b;
 }
