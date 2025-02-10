@@ -9,7 +9,7 @@
 
 
 /* ===================
-	1. MAP STYLES
+	1. NAMIBIA REGION MAP STYLES
 ===================== */
 
 .map-regions {
@@ -24,7 +24,7 @@
 
 
 /* ===================
-	2. MAP INTERACTION
+	2. NAMIBIA REGION MAP INTERACTION
 ===================== */
 
 .region_text {
@@ -85,5 +85,229 @@
 }
 
 :has(#region_14:hover) :is(#region_text_14) {
+	display: block;
+}
+
+
+/* ===================
+	3.1 AFRICA MAP INTERACTION SADC SACU
+===================== */
+
+
+:has(#quick_facts_icon_2:hover) :is(#NA, #AO, #BW, #CD, #LS, #MG, #MW, #MZ, #SZ, #TZ, #ZA, #ZM, #ZW) {
+	fill: #3D7C9F;
+}
+
+:has(#quick_facts_icon_3:hover) :is(#NA, #ZA, #LS, #SZ) {
+	fill: #005A74;
+}
+
+
+
+/* ===================
+	3.2 AFRICA MAP INTERACTION COUNTRIES
+===================== */
+
+.country_text {
+	display: none;
+}
+
+:has(#AO:hover) :is(#country_text_AO) {
+	display: block;
+}
+
+:has(#BI:hover) :is(#country_text_BI) {
+	display: block;
+}
+
+:has(#BJ:hover) :is(#country_text_BJ) {
+	display: block;
+}
+
+:has(#BF:hover) :is(#country_text_BF) {
+	display: block;
+}
+
+:has(#BW:hover) :is(#country_text_BW) {
+	display: block;
+}
+
+:has(#CF:hover) :is(#country_text_CF) {
+	display: block;
+}
+
+:has(#CI:hover) :is(#country_text_CI) {
+	display: block;
+}
+
+:has(#CM:hover) :is(#country_text_CM) {
+	display: block;
+}
+
+:has(#CD:hover) :is(#country_text_CD) {
+	display: block;
+}
+
+:has(#CG:hover) :is(#country_text_CG) {
+	display: block;
+}
+
+:has(#DJ:hover) :is(#country_text_DJ) {
+	display: block;
+}
+
+:has(#DZ:hover) :is(#country_text_EG) {
+	display: block;
+}
+
+:has(#EG:hover) :is(#country_text_EG) {
+	display: block;
+}
+
+:has(#ER:hover) :is(#country_text_ER) {
+	display: block;
+}
+
+:has(#ET:hover) :is(#country_text_ET) {
+	display: block;
+}
+
+:has(#GA:hover) :is(#country_text_GA) {
+	display: block;
+}
+
+:has(#GH:hover) :is(#country_text_GH) {
+	display: block;
+}
+
+:has(#GN:hover) :is(#country_text_GN) {
+	display: block;
+}
+
+:has(#GM:hover) :is(#country_text_GM) {
+	display: block;
+}
+
+:has(#GW:hover) :is(#country_text_GW) {
+	display: block;
+}
+
+:has(#GQ:hover) :is(#country_text_GQ) {
+	display: block;
+}
+
+:has(#KE:hover) :is(#country_text_KE) {
+	display: block;
+}
+
+:has(#LR:hover) :is(#country_text_LR) {
+	display: block;
+}
+
+:has(#LY:hover) :is(#country_text_LY) {
+	display: block;
+}
+
+:has(#LS:hover) :is(#country_text_LS) {
+	display: block;
+}
+
+:has(#MA:hover) :is(#country_text_MA) {
+	display: block;
+}
+
+:has(#MG:hover) :is(#country_text_MG) {
+	display: block;
+}
+
+:has(#ML:hover) :is(#country_text_ML) {
+	display: block;
+}
+
+:has(#MZ:hover) :is(#country_text_MZ) {
+	display: block;
+}
+
+:has(#MR:hover) :is(#country_text_MR) {
+	display: block;
+}
+
+:has(#MW:hover) :is(#country_text_MW) {
+	display: block;
+}
+
+:has(#NA:hover) :is(#country_text_NA) {
+	display: block;
+}
+
+:has(#NE:hover) :is(#country_text_NE) {
+	display: block;
+}
+
+:has(#NG:hover) :is(#country_text_NG) {
+	display: block;
+}
+
+:has(#RW:hover) :is(#country_text_RW) {
+	display: block;
+}
+
+:has(#EH:hover) :is(#country_text_EH) {
+	display: block;
+}
+
+:has(#SD:hover) :is(#country_text_SD) {
+	display: block;
+}
+
+:has(#SS:hover) :is(#country_text_SS) {
+	display: block;
+}
+
+:has(#SN:hover) :is(#country_text_SN) {
+	display: block;
+}
+
+:has(#SL:hover) :is(#country_text_SL) {
+	display: block;
+}
+
+:has(#SZ:hover) :is(#country_text_SZ) {
+	display: block;
+}
+
+:has(#TD:hover) :is(#country_text_TD) {
+	display: block;
+}
+
+:has(#TG:hover) :is(#country_text_TG) {
+	display: block;
+}
+
+:has(#TN:hover) :is(#country_text_TN) {
+	display: block;
+}
+
+:has(#TZ:hover) :is(#country_text_TZ) {
+	display: block;
+}
+
+:has(#UG:hover) :is(#country_text_UG) {
+	display: block;
+}
+
+:has(#ZA:hover) :is(#country_text_ZA) {
+	display: block;
+}
+
+:has(#ZM:hover) :is(#country_text_ZM) {
+	display: block;
+}
+
+:has(#ZW:hover) :is(#country_text_ZW) {
+	display: block;
+}
+
+:has(#SO:hover) :is(#country_text_SO) {
 	display: block;
 }
