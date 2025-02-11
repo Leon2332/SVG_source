@@ -108,6 +108,10 @@
 	3.2 AFRICA MAP INTERACTION COUNTRIES
 ===================== */
 
+.quick_facts_map_region:hover {
+	fill: #003C4C;
+}
+
 .country_text {
 	display: none;
 }
