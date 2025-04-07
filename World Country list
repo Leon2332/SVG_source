@@ -1,0 +1,256 @@
+<p class="country_text" id="country_text_AD">Andorra</p>
+<p class="country_text" id="country_text_AE">United Arab Emirates</p>
+<p class="country_text" id="country_text_AF">Afghanistan</p>
+<p class="country_text" id="country_text_AG">Antigua and Barbuda</p>
+<p class="country_text" id="country_text_AI">Anguilla</p>
+<p class="country_text" id="country_text_AL">Albania</p>
+<p class="country_text" id="country_text_AM">Armenia</p>
+<p class="country_text" id="country_text_AO">Angola</p>
+<p class="country_text" id="country_text_AR">Argentina</p>
+<p class="country_text" id="country_text_AS">American Samoa</p>
+<p class="country_text" id="country_text_AT">Austria</p>
+<p class="country_text" id="country_text_AU">Australia</p>
+<p class="country_text" id="country_text_AW">Aruba</p>
+<p class="country_text" id="country_text_AX">Aland Islands</p>
+<p class="country_text" id="country_text_AZ">Azerbaijan</p>
+<p class="country_text" id="country_text_BA">Bosnia and Herzegovina</p>
+<p class="country_text" id="country_text_BB">Barbados</p>
+<p class="country_text" id="country_text_BD">Bangladesh</p>
+<p class="country_text" id="country_text_BE">Belgium</p>
+<p class="country_text" id="country_text_BF">Burkina Faso</p>
+<p class="country_text" id="country_text_BG">Bulgaria</p>
+<p class="country_text" id="country_text_BH">Bahrain</p>
+<p class="country_text" id="country_text_BI">Burundi</p>
+<p class="country_text" id="country_text_BJ">Benin</p>
+<p class="country_text" id="country_text_BL">Saint Barthelemy</p>
+<p class="country_text" id="country_text_BN">Brunei Darussalam</p>
+<p class="country_text" id="country_text_BO">Bolivia</p>
+<p class="country_text" id="country_text_BM">Bermuda</p>
+<p class="country_text" id="country_text_BQ">Bonaire,  Saint Eustachius and Saba</p>
+<p class="country_text" id="country_text_BR">Brazil</p>
+<p class="country_text" id="country_text_BS">Bahamas</p>
+<p class="country_text" id="country_text_BT">Bhutan</p>
+<p class="country_text" id="country_text_BV">Bouvet Island</p>
+<p class="country_text" id="country_text_BW">Botswana</p>
+<p class="country_text" id="country_text_BY">Belarus</p>
+<p class="country_text" id="country_text_BZ">Belize</p>
+<p class="country_text" id="country_text_CA">Canada</p>
+<p class="country_text" id="country_text_CC">Cocos  (Keeling)  Islands</p>
+<p class="country_text" id="country_text_CD">Democratic Republic of Congo</p>
+<p class="country_text" id="country_text_CF">Central African Republic</p>
+<p class="country_text" id="country_text_CG">Republic of Congo</p>
+<p class="country_text" id="country_text_CH">Switzerland</p>
+<p class="country_text" id="country_text_CI">Côte d'Ivoire</p>
+<p class="country_text" id="country_text_CK">Cook Islands</p>
+<p class="country_text" id="country_text_CL">Chile</p>
+<p class="country_text" id="country_text_CM">Cameroon</p>
+<p class="country_text" id="country_text_CN">China</p>
+<p class="country_text" id="country_text_CO">Colombia</p>
+<p class="country_text" id="country_text_CR">Costa Rica</p>
+<p class="country_text" id="country_text_CU">Cuba</p>
+<p class="country_text" id="country_text_CV">Cape Verde</p>
+<p class="country_text" id="country_text_CW">Curaçao</p>
+<p class="country_text" id="country_text_CX">Christmas Island</p>
+<p class="country_text" id="country_text_CY">Cyprus</p>
+<p class="country_text" id="country_text_CZ">Czech Republic</p>
+<p class="country_text" id="country_text_DE">Germany</p>
+<p class="country_text" id="country_text_DJ">Djibouti</p>
+<p class="country_text" id="country_text_DK">Denmark</p>
+<p class="country_text" id="country_text_DM">Dominica</p>
+<p class="country_text" id="country_text_DO">Dominican Republic</p>
+<p class="country_text" id="country_text_DZ">Algeria</p>
+<p class="country_text" id="country_text_EC">Ecuador</p>
+<p class="country_text" id="country_text_EG">Egypt</p>
+<p class="country_text" id="country_text_EE">Estonia</p>
+<p class="country_text" id="country_text_EH">Western Sahara</p>
+<p class="country_text" id="country_text_ER">Eritrea</p>
+<p class="country_text" id="country_text_ES">Spain</p>
+<p class="country_text" id="country_text_ET">Ethiopia</p>
+<p class="country_text" id="country_text_FI">Finland</p>
+<p class="country_text" id="country_text_FJ">Fiji</p>
+<p class="country_text" id="country_text_FK">Falkland Islands</p>
+<p class="country_text" id="country_text_FM">Federated States of Micronesia</p>
+<p class="country_text" id="country_text_FO">Faroe Islands</p>
+<p class="country_text" id="country_text_FR">France</p>
+<p class="country_text" id="country_text_GA">Gabon</p>
+<p class="country_text" id="country_text_GB">United Kingdom</p>
+<p class="country_text" id="country_text_GE">Georgia</p>
+<p class="country_text" id="country_text_GD">Grenada</p>
+<p class="country_text" id="country_text_GF">French Guiana</p>
+<p class="country_text" id="country_text_GG">Guernsey</p>
+<p class="country_text" id="country_text_GH">Ghana</p>
+<p class="country_text" id="country_text_GI">Gibraltar</p>
+<p class="country_text" id="country_text_GL">Greenland</p>
+<p class="country_text" id="country_text_GM">Gambia</p>
+<p class="country_text" id="country_text_GN">Guinea</p>
+<p class="country_text" id="country_text_GO">Glorioso Islands</p>
+<p class="country_text" id="country_text_GP">Guadeloupe</p>
+<p class="country_text" id="country_text_GQ">Equatorial Guinea</p>
+<p class="country_text" id="country_text_GR">Greece</p>
+<p class="country_text" id="country_text_GS">South Georgia and South Sandwich Islands</p>
+<p class="country_text" id="country_text_GT">Guatemala</p>
+<p class="country_text" id="country_text_GU">Guam</p>
+<p class="country_text" id="country_text_GW">Guinea-Bissau</p>
+<p class="country_text" id="country_text_GY">Guyana</p>
+<p class="country_text" id="country_text_HK">Hong Kong</p>
+<p class="country_text" id="country_text_HM">Heard Island and McDonald Islands</p>
+<p class="country_text" id="country_text_HN">Honduras</p>
+<p class="country_text" id="country_text_HR">Croatia</p>
+<p class="country_text" id="country_text_HT">Haiti</p>
+<p class="country_text" id="country_text_HU">Hungary</p>
+<p class="country_text" id="country_text_ID">Indonesia</p>
+<p class="country_text" id="country_text_IE">Ireland</p>
+<p class="country_text" id="country_text_IL">Israel</p>
+<p class="country_text" id="country_text_IM">Isle of Man</p>
+<p class="country_text" id="country_text_IN">India</p>
+<p class="country_text" id="country_text_IO">British Indian Ocean Territory</p>
+<p class="country_text" id="country_text_IQ">Iraq</p>
+<p class="country_text" id="country_text_IR">Iran</p>
+<p class="country_text" id="country_text_IS">Iceland</p>
+<p class="country_text" id="country_text_IT">Italy</p>
+<p class="country_text" id="country_text_JE">Jersey</p>
+<p class="country_text" id="country_text_JM">Jamaica</p>
+<p class="country_text" id="country_text_JO">Jordan</p>
+<p class="country_text" id="country_text_JP">Japan</p>
+<p class="country_text" id="country_text_JU">Juan De Nova Island</p>
+<p class="country_text" id="country_text_KE">Kenya</p>
+<p class="country_text" id="country_text_KG">Kyrgyzstan</p>
+<p class="country_text" id="country_text_KH">Cambodia</p>
+<p class="country_text" id="country_text_KI">Kiribati</p>
+<p class="country_text" id="country_text_KM">Comoros</p>
+<p class="country_text" id="country_text_KN">Saint Kitts and Nevis</p>
+<p class="country_text" id="country_text_KP">North Korea</p>
+<p class="country_text" id="country_text_KR">South Korea</p>
+<p class="country_text" id="country_text_XK">Kosovo</p>
+<p class="country_text" id="country_text_KW">Kuwait</p>
+<p class="country_text" id="country_text_KY">Cayman Islands</p>
+<p class="country_text" id="country_text_KZ">Kazakhstan</p>
+<p class="country_text" id="country_text_LA">Lao People's Democratic Republic</p>
+<p class="country_text" id="country_text_LB">Lebanon</p>
+<p class="country_text" id="country_text_LC">Saint Lucia</p>
+<p class="country_text" id="country_text_LI">Liechtenstein</p>
+<p class="country_text" id="country_text_LK">Sri Lanka</p>
+<p class="country_text" id="country_text_LR">Liberia</p>
+<p class="country_text" id="country_text_LS">Lesotho</p>
+<p class="country_text" id="country_text_LT">Lithuania</p>
+<p class="country_text" id="country_text_LU">Luxembourg</p>
+<p class="country_text" id="country_text_LV">Latvia</p>
+<p class="country_text" id="country_text_LY">Libya</p>
+<p class="country_text" id="country_text_MA">Morocco</p>
+<p class="country_text" id="country_text_MC">Monaco</p>
+<p class="country_text" id="country_text_MD">Moldova</p>
+<p class="country_text" id="country_text_MG">Madagascar</p>
+<p class="country_text" id="country_text_ME">Montenegro</p>
+<p class="country_text" id="country_text_MF">Saint Martin</p>
+<p class="country_text" id="country_text_MH">Marshall Islands</p>
+<p class="country_text" id="country_text_MK">Macedonia</p>
+<p class="country_text" id="country_text_ML">Mali</p>
+<p class="country_text" id="country_text_MO">Macau</p>
+<p class="country_text" id="country_text_MM">Myanmar</p>
+<p class="country_text" id="country_text_MN">Mongolia</p>
+<p class="country_text" id="country_text_MP">Northern Mariana Islands</p>
+<p class="country_text" id="country_text_MQ">Martinique</p>
+<p class="country_text" id="country_text_MR">Mauritania</p>
+<p class="country_text" id="country_text_MS">Montserrat</p>
+<p class="country_text" id="country_text_MT">Malta</p>
+<p class="country_text" id="country_text_MU">Mauritius</p>
+<p class="country_text" id="country_text_MV">Maldives</p>
+<p class="country_text" id="country_text_MW">Malawi</p>
+<p class="country_text" id="country_text_MX">Mexico</p>
+<p class="country_text" id="country_text_MY">Malaysia</p>
+<p class="country_text" id="country_text_MZ">Mozambique</p>
+<p class="country_text" id="country_text_NA">Namibia</p>
+<p class="country_text" id="country_text_NC">New Caledonia</p>
+<p class="country_text" id="country_text_NE">Niger</p>
+<p class="country_text" id="country_text_NF">Norfolk Island</p>
+<p class="country_text" id="country_text_NG">Nigeria</p>
+<p class="country_text" id="country_text_NI">Nicaragua</p>
+<p class="country_text" id="country_text_NL">Netherlands</p>
+<p class="country_text" id="country_text_NO">Norway</p>
+<p class="country_text" id="country_text_NP">Nepal</p>
+<p class="country_text" id="country_text_NR">Nauru</p>
+<p class="country_text" id="country_text_NU">Niue</p>
+<p class="country_text" id="country_text_NZ">New Zealand</p>
+<p class="country_text" id="country_text_OM">Oman</p>
+<p class="country_text" id="country_text_PA">Panama</p>
+<p class="country_text" id="country_text_PE">Peru</p>
+<p class="country_text" id="country_text_PF">French Polynesia</p>
+<p class="country_text" id="country_text_PG">Papua New Guinea</p>
+<p class="country_text" id="country_text_PH">Philippines</p>
+<p class="country_text" id="country_text_PK">Pakistan</p>
+<p class="country_text" id="country_text_PL">Poland</p>
+<p class="country_text" id="country_text_PM">Saint Pierre and Miquelon</p>
+<p class="country_text" id="country_text_PN">Pitcairn Islands</p>
+<p class="country_text" id="country_text_PR">Puerto Rico</p>
+<p class="country_text" id="country_text_PS">Palestinian Territories</p>
+<p class="country_text" id="country_text_PT">Portugal</p>
+<p class="country_text" id="country_text_PW">Palau</p>
+<p class="country_text" id="country_text_PY">Paraguay</p>
+<p class="country_text" id="country_text_QA">Qatar</p>
+<p class="country_text" id="country_text_RE">Reunion</p>
+<p class="country_text" id="country_text_RO">Romania</p>
+<p class="country_text" id="country_text_RS">Serbia</p>
+<p class="country_text" id="country_text_RU">Russia</p>
+<p class="country_text" id="country_text_RW">Rwanda</p>
+<p class="country_text" id="country_text_SA">Saudi Arabia</p>
+<p class="country_text" id="country_text_SB">Solomon Islands</p>
+<p class="country_text" id="country_text_SC">Seychelles</p>
+<p class="country_text" id="country_text_SD">Sudan</p>
+<p class="country_text" id="country_text_SE">Sweden</p>
+<p class="country_text" id="country_text_SG">Singapore</p>
+<p class="country_text" id="country_text_SH">Saint Helena</p>
+<p class="country_text" id="country_text_SI">Slovenia</p>
+<p class="country_text" id="country_text_SJ">Svalbard and Jan Mayen</p>
+<p class="country_text" id="country_text_SK">Slovakia</p>
+<p class="country_text" id="country_text_SL">Sierra Leone</p>
+<p class="country_text" id="country_text_SM">San Marino</p>
+<p class="country_text" id="country_text_SN">Senegal</p>
+<p class="country_text" id="country_text_SO">Somalia</p>
+<p class="country_text" id="country_text_SR">Suriname</p>
+<p class="country_text" id="country_text_SS">South Sudan</p>
+<p class="country_text" id="country_text_ST">Sao Tome and Principe</p>
+<p class="country_text" id="country_text_SV">El Salvador</p>
+<p class="country_text" id="country_text_SX">Saint Martin</p>
+<p class="country_text" id="country_text_SY">Syria</p>
+<p class="country_text" id="country_text_SZ">Swaziland</p>
+<p class="country_text" id="country_text_TC">Turks and Caicos Islands</p>
+<p class="country_text" id="country_text_TD">Chad</p>
+<p class="country_text" id="country_text_TF">French Southern and Antarctic Lands</p>
+<p class="country_text" id="country_text_TG">Togo</p>
+<p class="country_text" id="country_text_TH">Thailand</p>
+<p class="country_text" id="country_text_TJ">Tajikistan</p>
+<p class="country_text" id="country_text_TK">Tokelau</p>
+<p class="country_text" id="country_text_TL">Timor-Leste</p>
+<p class="country_text" id="country_text_TM">Turkmenistan</p>
+<p class="country_text" id="country_text_TN">Tunisia</p>
+<p class="country_text" id="country_text_TO">Tonga</p>
+<p class="country_text" id="country_text_TR">Turkey</p>
+<p class="country_text" id="country_text_TT">Trinidad and Tobago</p>
+<p class="country_text" id="country_text_TV">Tuvalu</p>
+<p class="country_text" id="country_text_TW">Taiwan</p>
+<p class="country_text" id="country_text_TZ">Tanzania</p>
+<p class="country_text" id="country_text_UA">Ukraine</p>
+<p class="country_text" id="country_text_UG">Uganda</p>
+<p class="country_text" id="country_text_UM-DQ">Jarvis Island</p>
+<p class="country_text" id="country_text_UM-FQ">Baker Island</p>
+<p class="country_text" id="country_text_UM-HQ">Howland Island</p>
+<p class="country_text" id="country_text_UM-JQ">Johnston Atoll</p>
+<p class="country_text" id="country_text_UM-MQ">Midway Islands</p>
+<p class="country_text" id="country_text_UM-WQ">Wake Island</p>
+<p class="country_text" id="country_text_US">United States</p>
+<p class="country_text" id="country_text_UY">Uruguay</p>
+<p class="country_text" id="country_text_UZ">Uzbekistan</p>
+<p class="country_text" id="country_text_VA">Vatican City</p>
+<p class="country_text" id="country_text_VC">Saint Vincent and the Grenadines</p>
+<p class="country_text" id="country_text_VE">Venezuela</p>
+<p class="country_text" id="country_text_VG">British Virgin Islands</p>
+<p class="country_text" id="country_text_VI">US Virgin Islands</p>
+<p class="country_text" id="country_text_VN">Vietnam</p>
+<p class="country_text" id="country_text_VU">Vanuatu</p>
+<p class="country_text" id="country_text_WF">Wallis and Futuna</p>
+<p class="country_text" id="country_text_WS">Samoa</p>
+<p class="country_text" id="country_text_YE">Yemen</p>
+<p class="country_text" id="country_text_YT">Mayotte</p>
+<p class="country_text" id="country_text_ZA">South Africa</p>
+<p class="country_text" id="country_text_ZM">Zambia</p>
+<p class="country_text" id="country_text_ZW">Zimbabwe</p>
