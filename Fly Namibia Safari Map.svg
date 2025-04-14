@@ -1,4 +1,9 @@
+
+
 <style>
+
+  @import url("https://use.typekit.net/tps4tlm.css");
+  
   .map_regions {
   	fill: none;
   	stroke: #0d5a7a40;
@@ -32,11 +37,13 @@
   }
 
   .map_location_text {
+    font-family: brown-pro;
     font-size: 22;
     fill: none;
   }
 
   .map_reserve_text {
+    font-family: brown-pro;
     font-size: 24;
     fill: none;
   }
