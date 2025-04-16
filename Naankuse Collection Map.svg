@@ -5,11 +5,29 @@
   .map_location_text {
     font-family: century-gothic;
     font-size: 16px;
-    fill: none;
   }
 
-  .map_locations {
-    fill: white;
+  @media (max-width: 800px) {
+    .map_locations {
+        fill: #434462;
+    }
+    .map_location_text { 
+        fill: #434462;
+    }
+  }
+
+  @media (min-width: 801px) {
+    .map_locations {
+        fill: white;
+    }
+    .map_location_text { 
+        fill: none;
+    }
+  }
+  
+
+  .map_locations:hover {
+    fill: #434462;
   }
 
   .cls-3 {
@@ -21,32 +39,77 @@
     fill: white;
   }
   
-  :has(#map_location_1:hover) :is(#map_location_text_1) {
-    fill: white;
+  :has(#map_location_1:hover) :is(#map_location_text_1, #map_heading_text_1) {
+    fill: #434462;
+    color: #434462;
   }
 
-  :has(#map_location_2:hover) :is(#map_location_text_2) {
-    fill: white;
+  :has(#map_location_2:hover) :is(#map_location_text_2, #map_heading_text_2) {
+    fill: #434462;
+    color: #434462;
   }
 
-  :has(#map_location_3:hover) :is(#map_location_text_3) {
-    fill: white;
+  :has(#map_location_3:hover) :is(#map_location_text_3, #map_heading_text_3) {
+    fill: #434462;
+    color: #434462;
   }
 
-  :has(#map_location_4:hover) :is(#map_location_text_4) {
-    fill: white;
+  :has(#map_location_4:hover) :is(#map_location_text_4, #map_heading_text_4) {
+    fill: #434462;
+    color: #434462;
   }
 
-  :has(#map_location_5:hover) :is(#map_location_text_5) {
-    fill: white;
+  :has(#map_location_5:hover) :is(#map_location_text_5, #map_heading_text_5) {
+    fill: #434462;
+    color: #434462;
   }
 
-  :has(#map_location_6:hover) :is(#map_location_text_6) {
-    fill: white;
+  :has(#map_location_6:hover) :is(#map_location_text_6, #map_heading_text_6) {
+    fill: #434462;
+    color: #434462;
   }
 
-  :has(#map_location_7:hover) :is(#map_location_text_7) {
-    fill: white;
+  :has(#map_location_7:hover) :is(#map_location_text_7, #map_heading_text_7) {
+    fill: #434462;
+    color: #434462;
+  }
+
+
+
+  
+:has(#map_heading_text_1:hover) :is(#map_location_text_1, #map_heading_text_1, #map_location_1) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_2:hover) :is(#map_location_text_2, #map_heading_text_2, #map_location_2) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_3:hover) :is(#map_location_text_3, #map_heading_text_3, #map_location_3) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_4:hover) :is(#map_location_text_4, #map_heading_text_4, #map_location_4) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_5:hover) :is(#map_location_text_5, #map_heading_text_5, #map_location_5) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_6:hover) :is(#map_location_text_6, #map_heading_text_6, #map_location_6) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_7:hover) :is(#map_location_text_7, #map_heading_text_7, #map_location_7) {
+    fill: #434462;
+    color: #434462;
   }
   
 </style>
@@ -58,7 +121,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 821.51 816.57">
+  viewBox="0 0 821.51 816.57"
+  width="100%"
+  height="">
 
 
   
@@ -75,7 +140,7 @@
       <ellipse class="cls-4" cx="357.29" cy="306.31" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="357.29" cy="306.31" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_1" x="357.29" y="306.31">N/a'an ku sê Lodge</text>
+      <text class="map_location_text" id="map_location_text_1" x="187.29" y="306.31">N/a'an ku sê Lodge</text>
 
     <g class="map_locations" id="map_location_2">
       <path class="cls-1" d="M276.15,483.87c-.28,0-.69-.4-.69-.4-11.89-13.54-10.32-20.2-10.32-20.2,0,0,3.44,10.88,11.01,10.91"/>
@@ -83,7 +148,7 @@
       <ellipse class="cls-4" cx="276.15" cy="463.26" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="276.15" cy="463.26" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_2" x="276.15" y="463.26">Neuras Wine & Wildlife Estate</text>
+      <text class="map_location_text" id="map_location_text_2" x="266.15" y="443.26">Neuras Wine & Wildlife Estate</text>
 
     <g class="map_locations" id="map_location_3">
       <path class="cls-1" d="M262.84,578.31c-.28,0-.69-.4-.69-.4-11.89-13.54-10.32-20.2-10.32-20.2,0,0,3.44,10.88,11.01,10.91"/>
@@ -91,7 +156,7 @@
       <ellipse class="cls-4" cx="262.84" cy="557.71" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="262.84" cy="557.71" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_3" x="262.84" y="557.71">Kanaan Desert Retreat</text>
+      <text class="map_location_text" id="map_location_text_3" x="262.84" y="537.71">Kanaan Desert Retreat</text>
 
     <g class="map_locations" id="map_location_4">
       <path class="cls-1" d="M332.01,354.84c-.28,0-.69-.4-.69-.4-11.89-13.54-10.32-20.2-10.32-20.2,0,0,3.44,10.88,11.01,10.91"/>
@@ -99,7 +164,7 @@
       <ellipse class="cls-4" cx="332.01" cy="334.24" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="332.01" cy="334.24" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_4" x="332.01" y="334.24">N/a'an ku sê @ Utopia</text>
+      <text class="map_location_text" id="map_location_text_4" x="312.01" y="374.24">N/a'an ku sê @ Utopia</text>
 
     <g class="map_locations" id="map_location_5">
       <path class="cls-1" d="M377.9,340.21c-.28,0-.69-.4-.69-.4-11.89-13.54-10.32-20.2-10.32-20.2,0,0,3.44,10.88,11.01,10.91"/>
@@ -107,7 +172,7 @@
       <ellipse class="cls-4" cx="377.9" cy="319.61" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="377.9" cy="319.61" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_5" x="377.9" y="319.61">N/a'an ku sê Bush Camp</text>
+      <text class="map_location_text" id="map_location_text_5" x="357.9" y="289.61">N/a'an ku sê Bush Camp</text>
 
     <g class="map_locations" id="map_location_6">
       <path class="cls-1" d="M264.17,254.42c-.28,0-.69-.4-.69-.4-11.89-13.54-10.32-20.2-10.32-20.2,0,0,3.44,10.88,11.01,10.91"/>
@@ -115,7 +180,7 @@
       <ellipse class="cls-4" cx="264.17" cy="233.81" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="264.17" cy="233.81" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_6" x="264.17" y="233.81">TimBila Nature Reserve</text>
+      <text class="map_location_text" id="map_location_text_6" x="284.17" y="233.81">TimBila Nature Reserve</text>
 
     <g class="map_locations" id="map_location_7">
       <path class="cls-1" d="M462.37,329.57c-.28,0-.69-.4-.69-.4-11.89-13.54-10.32-20.2-10.32-20.2,0,0,3.44,10.88,11.01,10.91"/>
@@ -123,7 +188,7 @@
       <ellipse class="cls-4" cx="462.37" cy="308.97" rx="11.01" ry="10.91"/>
     </g>
       <ellipse class="cls-3" cx="462.37" cy="308.97" rx="6.51" ry="6.44"/>
-      <text class="map_location_text" id="map_location_text_7" x="462.37" y="308.97">Harnas Guest Farm</text>
+      <text class="map_location_text" id="map_location_text_7" x="395.37" y="342.97">Harnas Guest Farm</text>
   </g>
 
 </svg>
