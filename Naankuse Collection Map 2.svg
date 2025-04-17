@@ -1,5 +1,253 @@
-<!--version="1.0" encoding="utf-8"-->
+<style>
 
+/*class selectors*/
+  
+  .map_reserves {
+    stroke-width: 1;
+    stroke: #a29282;
+    fill: #a29282;
+  }
+
+  .map_reserves:hover {
+    fill: #43446250;
+  }
+
+@import url("https://use.typekit.net/xah5shv.css");
+  
+  .map_reserve_text {
+    font-family: century-gothic;
+    font-size: 20px;
+    fill: none;
+  }
+
+  .map_regions {
+    stroke-width: 1;
+    stroke: #201e2150;
+    fill: none;
+  }
+
+  .map_locations {
+    stroke-width: 3;
+    stroke: #434462;
+    fill: white;
+  }
+
+
+
+  .map_location_text {
+    font-family: century-gothic;
+    font-size: 20px;
+  }
+
+  @media (max-width: 800px) {
+    .map_locations {
+        fill: #434462;
+    }
+    .map_location_text { 
+        fill: #434462;
+    }
+  }
+
+  @media (min-width: 801px) {
+    .map_locations:hover {
+        fill: #434462;
+    }
+  
+    .map_location_text { 
+        fill: none;
+    }
+  }
+
+
+
+
+  
+/*id selectors*/
+
+  :has(#map_location_1:hover) :is(#map_location_text_1, #map_heading_text_1) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_location_2:hover) :is(#map_location_text_2, #map_heading_text_2) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_location_3:hover) :is(#map_location_text_3, #map_heading_text_3) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_location_4:hover) :is(#map_location_text_4, #map_heading_text_4) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_location_5:hover) :is(#map_location_text_5, #map_heading_text_5) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_location_6:hover) :is(#map_location_text_6, #map_heading_text_6) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_location_7:hover) :is(#map_location_text_7, #map_heading_text_7) {
+    fill: #434462;
+    color: #434462;
+  }
+
+
+  
+
+  :has(#map_heading_text_1:hover) :is(#map_location_text_1, #map_heading_text_1, #map_location_1) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_2:hover) :is(#map_location_text_2, #map_heading_text_2, #map_location_2) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_3:hover) :is(#map_location_text_3, #map_heading_text_3, #map_location_3) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_4:hover) :is(#map_location_text_4, #map_heading_text_4, #map_location_4) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_5:hover) :is(#map_location_text_5, #map_heading_text_5, #map_location_5) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_6:hover) :is(#map_location_text_6, #map_heading_text_6, #map_location_6) {
+    fill: #434462;
+    color: #434462;
+  }
+
+  :has(#map_heading_text_7:hover) :is(#map_location_text_7, #map_heading_text_7, #map_location_7) {
+    fill: #434462;
+    color: #434462;
+  }
+
+
+
+  :has(#map_reserve_1:hover) :is(#map_reserve_text_1) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_2:hover) :is(#map_reserve_text_2) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_3:hover) :is(#map_reserve_text_3) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_4:hover) :is(#map_reserve_text_4) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_5:hover) :is(#map_reserve_text_5) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_6:hover) :is(#map_reserve_text_6) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_7:hover) :is(#map_reserve_text_7) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_8:hover) :is(#map_reserve_text_8) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_9:hover) :is(#map_reserve_text_9) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_10:hover) :is(#map_reserve_text_10) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_11:hover) :is(#map_reserve_text_11) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_12:hover) :is(#map_reserve_text_12) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_13:hover) :is(#map_reserve_text_13) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_14:hover) :is(#map_reserve_text_14) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_15:hover) :is(#map_reserve_text_15) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_16:hover) :is(#map_reserve_text_16) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_17:hover) :is(#map_reserve_text_17) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_18:hover) :is(#map_reserve_text_18) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_19:hover) :is(#map_reserve_text_19) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_20:hover) :is(#map_reserve_text_20) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_21:hover) :is(#map_reserve_text_21) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_22:hover) :is(#map_reserve_text_22) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_23:hover) :is(#map_reserve_text_23) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_24:hover) :is(#map_reserve_text_24) {
+    fill: #434462;
+  }
+
+  :has(#map_reserve_25:hover) :is(#map_reserve_text_25) {
+    fill: #434462;
+  }
+
+  
+</style>
+
+
+
+
+
+
+<!--version="1.0" encoding="utf-8"-->
 <svg
   xmlns="http://www.w3.org/2000/svg"
   version="1.1"
@@ -105,25 +353,25 @@
   
   
   <ellipse class="map_locations" id="map_location_1" transform="matrix(1, 0, 0, 1, 417.25, 455.4)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_1" x="417.25" y="455.4">N/a'an ku sê Lodge</text>
+      <text class="map_location_text" id="map_location_text_1" x="437.25" y="445.4">N/a'an ku sê Lodge</text>
   
   <ellipse class="map_locations" id="map_location_2" transform="matrix(1, 0, 0, 1, 332.76, 610.42)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_2" x="332.76" y="610.42">Neuras Wine & Wildlife Estate</text>
+      <text class="map_location_text" id="map_location_text_2" x="352.76" y="610.42">Neuras Wine & Wildlife Estate</text>
   
   <ellipse class="map_locations" id="map_location_3" transform="matrix(1, 0, 0, 1, 325.17, 718.06)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_3" x="325.17" y="718.06">Kanaan Desert Retreat</text>
+      <text class="map_location_text" id="map_location_text_3" x="345.17" y="718.06">Kanaan Desert Retreat</text>
   
   <ellipse class="map_locations" id="map_location_4" transform="matrix(1, 0, 0, 1, 396.66, 470.15)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_4" x="396.66" y="470.15">Naankuse @ Utopia</text>
+      <text class="map_location_text" id="map_location_text_4" x="416.66" y="480.15">N/a'an ku sê @ Utopia</text>
   
   <ellipse class="map_locations" id="map_location_5" transform="matrix(1, 0, 0, 1, 429.09, 457.7)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_5" x="429.09" y="457.7">Naankuse Bush Camp</text>
+      <text class="map_location_text" id="map_location_text_5" x="449.09" y="457.7">N/a'an ku sê Bush Camp</text>
   
   <ellipse class="map_locations" id="map_location_6" transform="matrix(1, 0, 0, 1, 342.49, 366.88)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_6" x="342.49" y="366.88">TimBila Farmstead</text>
+      <text class="map_location_text" id="map_location_text_6" x="382.49" y="366.88">TimBila Nature Reserve</text>
   
   <ellipse class="map_locations" id="map_location_7" transform="matrix(1, 0, 0, 1, 561.22, 410.04)" cx="0" cy="0" rx="7" ry="7"/>
-      <text class="map_location_text" id="map_location_text_7" x="561.22" y="410.04">Harnas Wildlife Foundation</text>
+      <text class="map_location_text" id="map_location_text_7" x="581.22" y="410.04">Harnas Guest Farm</text>
   
   
 
