@@ -61,19 +61,49 @@
   }
 
 
+  .map_layouts {
+    display: none;
+  }
 
 
   
 /*id selectors*/
 
-  
-  #map_layout_1 {
-    display: none;
-  }
 
   :has(#map_location_1:hover, #map_heading_text_1:hover) :is(#map_layout_1) {
     display: block;
   }
+
+  :has(#map_location_2:hover, #map_heading_text_2:hover) :is(#map_layout_2) {
+    display: block;
+  }
+
+  :has(#map_location_3:hover, #map_heading_text_3:hover) :is(#map_layout_3) {
+    display: block;
+  }
+
+  :has(#map_location_3:hover, #map_heading_text_3:hover) :is(#map_layout_3) {
+    display: block;
+  }
+
+  :has(#map_location_4:hover, #map_heading_text_4:hover) :is(#map_layout_4) {
+    display: block;
+  }
+
+  :has(#map_location_5:hover, #map_heading_text_5:hover) :is(#map_layout_5) {
+    display: block;
+  }
+
+  :has(#map_location_6:hover, #map_heading_text_6:hover) :is(#map_layout_6) {
+    display: block;
+  }
+
+  :has(#map_location_7:hover, #map_heading_text_7:hover) :is(#map_layout_7) {
+    display: block;
+  }
+
+
+  
 
   :has(#map_location_1:hover) :is(#map_location_text_1, #map_heading_text_1) {
     fill: #434462;
